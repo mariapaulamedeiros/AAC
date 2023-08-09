@@ -1,6 +1,7 @@
 ; Maria Paula Medeiros G. Miguel - 20180064191
 ; Arquitetura Avancada para Computacao - 2023.1
 ; Laboratorio 01 - Questao 01: Fibonacci
+; Codigo para gerar a sequencia de Fibonacci ate 16 bits em Assembly no Emu8086
 
 name "fibonacci"
 
